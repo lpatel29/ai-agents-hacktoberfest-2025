@@ -1,3 +1,9 @@
+# AI Agents - Hacktoberfest 2025
+
+[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet)](https://hacktoberfest.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+🎃 This repository is participating in Hacktoberfest 2025!
 ## AI Agents – Hacktoberfest 2025
 
 A collection of small AI/utility agents and examples to learn, contribute, and collaborate during Hacktoberfest 2025.
