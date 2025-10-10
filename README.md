@@ -8,6 +8,15 @@
 
 A collection of small AI/utility agents and examples to learn, contribute, and collaborate during Hacktoberfest 2025.
 
+## 🧠 Demo Video
+
+Here’s a demo video showing the project setup and AI agent interaction:
+
+https://github.com/user-attachments/assets/0b9ecd5b-3a41-4aec-957f-675a7dab2b53
+
+> **Note:** Make sure you have a `.env` file in the project root with your Gemini API key:  
+> `GEMINI_API_KEY=your_api_key_here`
+
 ### What’s inside
 - `agents/` – individual agents and examples
   - `gemini/` – minimal Gemini content generation example
