@@ -17,11 +17,25 @@ https://github.com/user-attachments/assets/0b9ecd5b-3a41-4aec-957f-675a7dab2b53
 > **Note:** Make sure you have a `.env` file in the project root with your Gemini API key:  
 > `GEMINI_API_KEY=your_api_key_here`
 
-### What’s inside
+## 📚 Documentation
+
+**New to AI Agents?** Check out our comprehensive guides:
+
+- 📖 **[AI Agents: A Comprehensive Guide](./AI_AGENTS_DOCUMENTATION.md)** - Deep dive into what AI agents are, how they differ from traditional functions, use cases, and best practices
+- 🚀 **[Quick Start Guide](./docs/AI_AGENTS_QUICK_START.md)** - Get up and running with practical examples
+
+### What's inside
 - `agents/` – individual agents and examples
   - `gemini/` – minimal Gemini content generation example
   - `gemini_chatbot/` – simple chat-style interaction (example)
   - `calculator/` – utility agent example
+  - `rule_based_agent/` – simple reflex agent demonstration
+  - `goal_based_agent/` – goal-oriented agent example
+  - `tool_agent/` – function-calling agent with external tools
+  - `content_team/` – multi-agent collaboration system
+  - `research_agent/` – specialized research and analysis agent
+  - `code_agent/` – code generation and review agent
+  - `search_agent/` – web search and information gathering agent
 
 ### Quick start
 ```bash
